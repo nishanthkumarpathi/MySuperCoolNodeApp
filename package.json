@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rramname/MyCoolNodeApp.git"
+    "url": "git+https://github.com/rramname/MySuperCoolNodeApp.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rramname/MyCoolNodeApp/issues"
+    "url": "https://github.com/rramname/MySuperCoolNodeApp/issues"
   },
-  "homepage": "https://github.com/rramname/MyCoolNodeApp#readme"
+  "homepage": "https://github.com/rramname/MySuperCoolNodeApp#readme"
 }
